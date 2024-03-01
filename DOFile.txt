@@ -1,1 +1,1 @@
-{"do_category": "Host", "id": "b90931d40587bd45d89897df6bede44f", "ip": "192.168.1.1", "port": 8888, "purpose": "Application"}
+{"do_category": "User", "id": "6591935a79dc4b03f8b58c5e79d01273", "name": "igmarco"}
